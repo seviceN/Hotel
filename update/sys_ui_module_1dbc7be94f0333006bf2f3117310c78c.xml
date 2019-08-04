@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Guest ">d1bc7be94f0333006bf2f3117310c78b</application>
+        <filter/>
+        <name>Guest s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_383780_hotel.guest_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 04:10:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1dbc7be94f0333006bf2f3117310c78c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guest s</sys_name>
+        <sys_package display_value="Hotel " source="x_383780_hotel">f979b3294f0333006bf2f3117310c7a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel ">f979b3294f0333006bf2f3117310c7a9</sys_scope>
+        <sys_update_name>sys_ui_module_1dbc7be94f0333006bf2f3117310c78c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 04:10:39</sys_updated_on>
+        <table>x_383780_hotel_guest</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

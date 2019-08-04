@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>check-in</name>
+        <order>100</order>
+        <roles>x_383780_hotel.check_in_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 04:04:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba5bb3a94f0333006bf2f3117310c75d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>check-in</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hotel " source="x_383780_hotel">f979b3294f0333006bf2f3117310c7a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel ">f979b3294f0333006bf2f3117310c7a9</sys_scope>
+        <sys_update_name>sys_app_application_ba5bb3a94f0333006bf2f3117310c75d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 04:04:45</sys_updated_on>
+        <title>check-in</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel ">f979b3294f0333006bf2f3117310c7a9</application>
+        <file_path/>
+        <instance_id>9c703d8fdbb01b884c1ff70fbf9619cd</instance_id>
+        <instance_name>dev53150</instance_name>
+        <name>sys_app_application_ba5bb3a94f0333006bf2f3117310c75d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>check-in</name><order>100</order><roles>x_383780_hotel.check_in_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-04 04:04:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ba5bb3a94f0333006bf2f3117310c75d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>check-in</sys_name><sys_overrides/><sys_package display_value="Hotel " source="x_383780_hotel">f979b3294f0333006bf2f3117310c7a9</sys_package><sys_policy/><sys_scope display_value="Hotel ">f979b3294f0333006bf2f3117310c7a9</sys_scope><sys_update_name>sys_app_application_ba5bb3a94f0333006bf2f3117310c75d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-04 04:04:45</sys_updated_on><title>check-in</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>77606738</payload_hash>
+        <record_name>check-in</record_name>
+        <reverted_from/>
+        <source>b179b3294f0333006bf2f3117310c7ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 04:04:45</sys_created_on>
+        <sys_id>f65bb3a94f0333006bf2f3117310c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c5acd13bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 04:04:45</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>325bb3a967033300ed195218b1ba6560</update_guid>
+        <update_guid_history>325bb3a967033300ed195218b1ba6560:77606738</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="check-in">c5bebbad4f0333006bf2f3117310c756</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-04 04:19:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>885993fec7714cf6935444313a712684</sys_id>
+        <sys_metadata>ba5bb3a94f0333006bf2f3117310c75d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>check-in</sys_name>
+        <sys_package display_value="Hotel " source="x_383780_hotel">f979b3294f0333006bf2f3117310c7a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hotel ">f979b3294f0333006bf2f3117310c7a9</sys_scope>
+        <sys_scope_delete display_value="">102d69b7eb404667827ec73d0a35f609</sys_scope_delete>
+        <sys_update_name>sys_app_application_ba5bb3a94f0333006bf2f3117310c75d</sys_update_name>
+        <sys_update_version display_value="sys_app_application_ba5bb3a94f0333006bf2f3117310c75d">f65bb3a94f0333006bf2f3117310c760</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-04 04:19:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
