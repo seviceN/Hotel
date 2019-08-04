@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="check-in" max_length="40" name="x_383780_hotel_check_in" type="collection">
         <element label="comments" max_length="500" name="comments" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
         <element label="Guest" max_length="32" name="guest" reference="x_383780_hotel_guest" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="Room" max_length="32" name="room" reference="x_383780_hotel_room" type="reference"/>
         <index name="index">
